@@ -1,0 +1,6 @@
+Fonts used
+- Poppins (headings)
+- Inter (body)
+- Fira Code (mono/stats)
+
+Loaded via Google Fonts in index.html.
